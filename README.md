@@ -1,9 +1,9 @@
 ## 👋 Hi there, I'm Zach!
 
 A few things about me:
+- 🛠 I'm a Data Scientist with expertise in automation and visuzalization
 - 🧠 I got my Ph.D at University of Washington in Bioengineering and computational neuroscience
-- 🛠 I now work as a data scientist and tool developer creating dashboards and data workflows
-- 📌 Interests: **Data Science**, **Machine Learning**, **Data Visualization**, **Analysis productization**
+- 📈 I am always learning new things! I'm currently interested in **Robotics**, **UX**, and **Project Management** to name a few!
 - 💻 Languages and Tools:
   - 🐍 Python
   - ☁ AWS
