@@ -1,9 +1,9 @@
 ## 👋 Hi there, I'm Zach!
 
 A few things about me:
-- 🛠 I'm a Data Scientist with expertise in automation and visuzalization
+- 🛠 I'm a Data Scientist with expertise in rapid prototyping, experimentation, and automation
 - 🧠 I got my Ph.D at University of Washington in Bioengineering and computational neuroscience
-- 📈 I am always learning new things! I'm currently interested in **Robotics**, **UX**, and **Project Management** to name a few!
+- 📈 I am always learning new things! I'm currently interested in developing **Robotics** and **Agentic AI**, projects, would love to collaborate on a project 🤝!
 - 💻 Languages and Tools:
   - 🐍 Python
   - ☁ AWS
